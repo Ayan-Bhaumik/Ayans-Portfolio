@@ -342,6 +342,15 @@ section {
   gap: 2rem;
   justify-content: space-around;
 }
+.video-container{
+  
+  display: flex;
+  text-align: initial;
+  flex-wrap: wrap;
+  flex-direction: row;
+  gap: 2rem;
+  justify-content: space-around;
+}
 
 article {
   display: flex;
